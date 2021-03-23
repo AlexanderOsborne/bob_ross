@@ -26,4 +26,8 @@ class Bob
   def not_real
     does nothing
   end
+
+  def also
+    does nada
+  end
 end
