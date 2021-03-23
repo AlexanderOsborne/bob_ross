@@ -22,4 +22,8 @@ class Bob
     end
     total
   end
+
+  def not_real
+    does nothing
+  end
 end
