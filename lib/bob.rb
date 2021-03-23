@@ -30,4 +30,8 @@ class Bob
   def also
     does nada
   end
+
+  def still
+    no hace nada
+  end
 end
